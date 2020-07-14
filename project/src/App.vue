@@ -8,7 +8,6 @@
   </div>
 </template>
 
-import 
 <style lang="stylus">
 
 html, body {
